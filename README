@@ -1,0 +1,11 @@
+To try this program:
+
+http://my-food-guide2-my-food-guide.193b.starter-ca-central-1.openshiftapps.com/
+
+To test the RESTful api:
+
+http://my-food-guide2-my-food-guide.193b.starter-ca-central-1.openshiftapps.com/recommendation/{age}/{gender}/{language}.json
+
+example:
+
+http://my-food-guide2-my-food-guide.193b.starter-ca-central-1.openshiftapps.com/recommendation/88/female/en.json
